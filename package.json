@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "serve": " node app.js"
+    "starts": " node app.js"
   },
   "author": "belyndisima82",
   "dependencies": {
