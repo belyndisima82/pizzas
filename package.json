@@ -1,0 +1,13 @@
+{
+  "name": "pizza-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "serve": " node app.js"
+  },
+  "author": "belyndisima82",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
