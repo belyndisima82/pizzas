@@ -1,10 +1,10 @@
 const mysql = require('mysql');
 
 const config = {
-    host: 'localhost',
-    user: 'admin',
-    password: 'R2d2C3p0_',
-    database: 'pizzas',
+    host: 'us-cdbr-east-06.cleardb.net',
+    user: 'b636f85a17ad86',
+    password: '1f365401@',
+    database: 'heroku_ebd610116a92916',
 };
 
 const pool = mysql.createPool(config);
