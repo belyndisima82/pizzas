@@ -1,2 +1,2 @@
 # pizzas
-pizzas store
+pizzas api
